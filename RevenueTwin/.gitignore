@@ -1,0 +1,10 @@
+# Secrets and local runtime configuration
+backend/.env
+.env
+
+# Python and frontend generated files
+__pycache__/
+*.py[cod]
+backend/venv/
+frontend/node_modules/
+frontend/dist/
